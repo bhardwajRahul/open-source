@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 51/100 |
+| 1 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 48/100 |
 | 2 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 42/100 |
 | 3 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 39/100 |
 | 4 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 34/100 |

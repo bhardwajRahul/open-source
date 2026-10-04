@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38157** |
-| **Categories** | **294** |
+| **Projects** | **38163** |
+| **Categories** | **295** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14821 | [Browse →](./misc/) |
+| 📦 **Misc** | 14823 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4243 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 92 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 36 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 37 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 11 | [Browse →](./llm/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 6 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
@@ -70,7 +71,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
-| 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
@@ -129,6 +129,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Water-quality** | 1 | [Browse →](./water-quality/) |
 | 🏷️ **Bot-detection** | 1 | [Browse →](./bot-detection/) |
 | 🏷️ **Chore-management** | 1 | [Browse →](./chore-management/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
