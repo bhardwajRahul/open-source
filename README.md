@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38200** |
-| **Categories** | **302** |
+| **Projects** | **38207** |
+| **Categories** | **305** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14837 | [Browse →](./misc/) |
+| 📦 **Misc** | 14839 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -62,17 +62,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
+| 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 7 | [Browse →](./local-first/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Local-ai** | 6 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
-| 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
-| 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
@@ -133,6 +133,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
+| 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
+| 🏷️ **Vim** | 1 | [Browse →](./vim/) |
 | 🏷️ **Politics** | 1 | [Browse →](./politics/) |
 | 🏷️ **Microservices** | 1 | [Browse →](./microservices/) |
 | 🏷️ **Symbolic-regression** | 1 | [Browse →](./symbolic-regression/) |
