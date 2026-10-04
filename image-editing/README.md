@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wayperlee/edittextinimage](./wayperlee-edittextinimage.md) | ⭐ — | Python | 46/100 |
+| 1 | [wayperlee/edittextinimage](./wayperlee-edittextinimage.md) | ⭐ — | Python | 43/100 |
 
 ---
 
