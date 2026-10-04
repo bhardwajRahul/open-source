@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Divyansh0208/Cyclone](./divyansh0208-cyclone.md) | ⭐ — | Python | 55/100 |
+| 1 | [Divyansh0208/Cyclone](./divyansh0208-cyclone.md) | ⭐ — | Python | 52/100 |
 
 ---
 

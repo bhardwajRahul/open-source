@@ -1,6 +1,6 @@
 # Divyansh0208/Cyclone
 
-[![Stars](https://img.shields.io/github/stars/Divyansh0208/Cyclone?style=flat-square&color=yellow)](https://github.com/Divyansh0208/Cyclone/stargazers) [![Forks](https://img.shields.io/github/forks/Divyansh0208/Cyclone?style=flat-square&color=blue)](https://github.com/Divyansh0208/Cyclone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Divyansh0208/Cyclone?style=flat-square&color=yellow)](https://github.com/Divyansh0208/Cyclone/stargazers) [![Forks](https://img.shields.io/github/forks/Divyansh0208/Cyclone?style=flat-square&color=blue)](https://github.com/Divyansh0208/Cyclone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 6-hour cyclone intensity forecast + district-level exposure ranking for the North Indian Ocean, on a 3D satellite globe.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Divyansh0208/Cyclone：Divyansh0208/Cyclone may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 59/100 |
+| outlook | 57/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
