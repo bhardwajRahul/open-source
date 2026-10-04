@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38213** |
-| **Categories** | **305** |
+| **Projects** | **38221** |
+| **Categories** | **308** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14843 | [Browse →](./misc/) |
+| 📦 **Misc** | 14844 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1361 | [Browse →](./automation/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 161 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 38 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 40 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 12 | [Browse →](./llm/) |
@@ -94,6 +94,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
@@ -133,6 +134,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Nodejs** | 1 | [Browse →](./nodejs/) |
+| 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
 | 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
 | 🏷️ **Vim** | 1 | [Browse →](./vim/) |

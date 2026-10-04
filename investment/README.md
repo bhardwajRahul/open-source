@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SAMtheROCKET/investment-journey-simulator](./samtherocket-investment-journey-simulator.md) | ⭐ 1 | Python | 45/100 |
+| 1 | [Heramb1221/poolfolio](./heramb1221-poolfolio.md) | ⭐ — | TypeScript | 39/100 |
+| 2 | [google-research/tabpfn](./google-research-tabpfn.md) | ⭐ — | — | 27/100 |
 
 ---
 
