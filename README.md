@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38254** |
-| **Categories** | **316** |
+| **Projects** | **38259** |
+| **Categories** | **318** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14857 | [Browse →](./misc/) |
+| 📦 **Misc** | 14860 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4245 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -137,6 +137,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Study** | 1 | [Browse →](./study/) |
+| 🏷️ **Loglan** | 1 | [Browse →](./loglan/) |
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Stock-management** | 1 | [Browse →](./stock-management/) |
