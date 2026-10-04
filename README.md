@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38176** |
+| **Projects** | **38179** |
 | **Categories** | **299** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -64,15 +64,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Local-first** | 7 | [Browse →](./local-first/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Local-ai** | 6 | [Browse →](./local-ai/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
-| 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Offline** | 3 | [Browse →](./offline/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
@@ -91,6 +92,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ios** | 2 | [Browse →](./ios/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
@@ -106,7 +108,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberrypi** | 2 | [Browse →](./raspberrypi/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |
-| 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
@@ -152,7 +153,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
-| 🏷️ **Ios** | 1 | [Browse →](./ios/) |
 | 🏷️ **Deterministic-grading** | 1 | [Browse →](./deterministic-grading/) |
 | 🏷️ **Fscss** | 1 | [Browse →](./fscss/) |
 | 🏷️ **Lead-enrichment** | 1 | [Browse →](./lead-enrichment/) |

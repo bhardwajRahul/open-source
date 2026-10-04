@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [LalanaChami/CandleKit](./lalanachami-candlekit.md) | ⭐ 2 | Swift | 43/100 |
+| 2 | [aadhyaguptacol-debug/friend-ai-ios](./aadhyaguptacol-debug-friend-ai-ios.md) | ⭐ — | Makefile | 36/100 |
 
 ---
 
