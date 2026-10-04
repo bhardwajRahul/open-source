@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38184** |
-| **Categories** | **299** |
+| **Projects** | **38197** |
+| **Categories** | **302** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14830 | [Browse →](./misc/) |
+| 📦 **Misc** | 14834 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -69,10 +69,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Offline** | 3 | [Browse →](./offline/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
@@ -87,12 +90,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
-| 🏷️ **Ai-agent** | 3 | [Browse →](./ai-agent/) |
 | 🏷️ **Video-generation** | 3 | [Browse →](./video-generation/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **Ios** | 2 | [Browse →](./ios/) |
+| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
@@ -131,6 +133,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Politics** | 1 | [Browse →](./politics/) |
+| 🏷️ **Microservices** | 1 | [Browse →](./microservices/) |
+| 🏷️ **Symbolic-regression** | 1 | [Browse →](./symbolic-regression/) |
 | 🏷️ **Food** | 1 | [Browse →](./food/) |
 | 🏷️ **Secret-rotation** | 1 | [Browse →](./secret-rotation/) |
 | 🏷️ **Current-affairs** | 1 | [Browse →](./current-affairs/) |
@@ -212,7 +217,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Goaltracking** | 1 | [Browse →](./goaltracking/) |
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
 | 🏷️ **Alexa** | 1 | [Browse →](./alexa/) |
-| 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
@@ -318,7 +322,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Excel** | 1 | [Browse →](./excel/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
-| 🏷️ **React-native** | 1 | [Browse →](./react-native/) |
 | 🏷️ **Cost-estimation** | 1 | [Browse →](./cost-estimation/) |
 | 🏷️ **Qa** | 1 | [Browse →](./qa/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |

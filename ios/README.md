@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LalanaChami/CandleKit](./lalanachami-candlekit.md) | ⭐ 2 | Swift | 43/100 |
-| 2 | [aadhyaguptacol-debug/friend-ai-ios](./aadhyaguptacol-debug-friend-ai-ios.md) | ⭐ — | Makefile | 36/100 |
+| 1 | [MystenLabs/MemWal](./mystenlabs-memwal.md) | ⭐ 113 | TypeScript | 49/100 |
+| 2 | [LalanaChami/CandleKit](./lalanachami-candlekit.md) | ⭐ 2 | Swift | 43/100 |
+| 3 | [aadhyaguptacol-debug/friend-ai-ios](./aadhyaguptacol-debug-friend-ai-ios.md) | ⭐ — | Makefile | 36/100 |
 
 ---
 
