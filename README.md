@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38279** |
+| **Projects** | **38282** |
 | **Categories** | **321** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14865 | [Browse →](./misc/) |
+| 📦 **Misc** | 14866 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -71,6 +71,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 5 | [Browse →](./privacy/) |
 | 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Offline** | 4 | [Browse →](./offline/) |
+| 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Ci** | 4 | [Browse →](./ci/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
@@ -79,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
-| 🏷️ **Offline** | 3 | [Browse →](./offline/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
 | 🏷️ **Raspberry-pi** | 3 | [Browse →](./raspberry-pi/) |
-| 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
