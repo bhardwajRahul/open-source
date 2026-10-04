@@ -22,11 +22,11 @@
 | 12 | [sopkits/knowledge-freshness-audit](./sopkits-knowledge-freshness-audit.md) | ⭐ — | — | 47/100 |
 | 13 | [muhammadumar89/codeninja-research](./muhammadumar89-codeninja-research.md) | ⭐ — | HTML | 44/100 |
 | 14 | [SwagD15/PlayNext](./swagd15-playnext.md) | ⭐ — | JavaScript | 43/100 |
-| 15 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 43/100 |
-| 16 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 42/100 |
-| 17 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 42/100 |
-| 18 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
-| 19 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
+| 15 | [shraddhakolate30-maker/CalmSpace](./shraddhakolate30-maker-calmspace.md) | ⭐ — | Python | 42/100 |
+| 16 | [hahahahahahahahah6/plan-shard](./hahahahahahahahah6-plan-shard.md) | ⭐ — | Python | 42/100 |
+| 17 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
+| 18 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
+| 19 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
 | 20 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 39/100 |
 | 21 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 39/100 |
 | 22 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
