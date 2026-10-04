@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 40 | Go | 64/100 |
+| 1 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 40 | Go | 61/100 |
 | 2 | [coolifyhq/coolify](./coolifyhq-coolify.md) | ⭐ — | — | 24/100 |
 | 3 | [ggerganov/ggml](./ggerganov-ggml.md) | ⭐ — | — | 24/100 |
 | 4 | [yourusername/layerchart](./yourusername-layerchart.md) | ⭐ — | — | 24/100 |

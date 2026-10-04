@@ -1,6 +1,6 @@
 # chrislusf/seaweedfs
 
-[![Stars](https://img.shields.io/github/stars/chrislusf/seaweedfs?style=flat-square&color=yellow)](https://github.com/chrislusf/seaweedfs/stargazers) [![Forks](https://img.shields.io/github/forks/chrislusf/seaweedfs?style=flat-square&color=blue)](https://github.com/chrislusf/seaweedfs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrislusf/seaweedfs?style=flat-square&color=yellow)](https://github.com/chrislusf/seaweedfs/stargazers) [![Forks](https://img.shields.io/github/forks/chrislusf/seaweedfs?style=flat-square&color=blue)](https://github.com/chrislusf/seaweedfs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ chrislusf/seaweedfs：chrislusf/seaweedfs may be useful when its README and acti
 - updated 2026-10-01
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 31/100 |
 | categoryMatchCount | 900/100 |
 | stars | 34/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
