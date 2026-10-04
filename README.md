@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38245** |
-| **Categories** | **314** |
+| **Projects** | **38254** |
+| **Categories** | **316** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14853 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14857 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4245 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
@@ -57,8 +57,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 12 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 10 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
@@ -136,6 +137,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
+| 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Stock-management** | 1 | [Browse →](./stock-management/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
 | 🏷️ **Prompt-management** | 1 | [Browse →](./prompt-management/) |
@@ -214,7 +217,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Event-sourcing** | 1 | [Browse →](./event-sourcing/) |
 | 🏷️ **Exam** | 1 | [Browse →](./exam/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
-| 🏷️ **Hacktoberfest** | 1 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Semantic-search** | 1 | [Browse →](./semantic-search/) |
 | 🏷️ **3d** | 1 | [Browse →](./3d/) |
 | 🏷️ **Cyclone** | 1 | [Browse →](./cyclone/) |

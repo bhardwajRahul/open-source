@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kenwalger/Cellar](./kenwalger-cellar.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [kenwalger/Cellar](./kenwalger-cellar.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 

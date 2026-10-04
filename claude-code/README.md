@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BarganConstantin/ccdeck](./barganconstantin-ccdeck.md) | ⭐ 10 | TypeScript | 70/100 |
+| 1 | [BarganConstantin/ccdeck](./barganconstantin-ccdeck.md) | ⭐ 10 | TypeScript | 67/100 |
 | 2 | [syntaxixr/goalpost](./syntaxixr-goalpost.md) | ⭐ 1 | JavaScript | 60/100 |
 | 3 | [Eigenwise/eigenwise-toolshed](./eigenwise-eigenwise-toolshed.md) | ⭐ 275 | TypeScript | 60/100 |
 | 4 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
