@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38154** |
-| **Categories** | **293** |
+| **Projects** | **38157** |
+| **Categories** | **294** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14820 | [Browse →](./misc/) |
+| 📦 **Misc** | 14821 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4243 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -73,6 +73,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 4 | [Browse →](./python/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
@@ -108,7 +109,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ai-qa** | 2 | [Browse →](./ai-qa/) |
-| 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Synthetic-data** | 2 | [Browse →](./synthetic-data/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Certification** | 2 | [Browse →](./certification/) |
@@ -129,6 +129,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Bot-detection** | 1 | [Browse →](./bot-detection/) |
 | 🏷️ **Chore-management** | 1 | [Browse →](./chore-management/) |
 | 🏷️ **Cloud** | 1 | [Browse →](./cloud/) |
 | 🏷️ **Eurorack** | 1 | [Browse →](./eurorack/) |
