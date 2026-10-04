@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bks-lab/open-bridge](./bks-lab-open-bridge.md) | ⭐ 10 | Python | 71/100 |
+| 1 | [bks-lab/open-bridge](./bks-lab-open-bridge.md) | ⭐ 10 | Python | 68/100 |
 | 2 | [git/git](./git-git.md) | ⭐ 63.5k | C | 63/100 |
 | 3 | [drSenkuIshigami/branchcraft](./drsenkuishigami-branchcraft.md) | ⭐ 1 | TypeScript | 60/100 |
 | 4 | [Arthur031221/gitclone-doctor](./arthur031221-gitclone-doctor.md) | ⭐ — | JavaScript | 59/100 |

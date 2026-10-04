@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sagarv48/knowledge-fabric](./sagarv48-knowledge-fabric.md) | ⭐ 8 | Python | 50/100 |
+| 1 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 73/100 |
 
 ---
 
