@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38269** |
-| **Categories** | **318** |
+| **Projects** | **38279** |
+| **Categories** | **321** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14864 | [Browse →](./misc/) |
+| 📦 **Misc** | 14865 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -50,16 +50,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 289 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 161 | [Browse →](./design/) |
+| ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 42 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 43 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 12 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 11 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
-| 🏷️ **Local-llm** | 10 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
@@ -68,6 +68,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
+| 🏷️ **Privacy** | 5 | [Browse →](./privacy/) |
 | 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Ci** | 4 | [Browse →](./ci/) |
@@ -80,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Offline** | 3 | [Browse →](./offline/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
-| 🏷️ **Privacy** | 3 | [Browse →](./privacy/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Bash** | 3 | [Browse →](./bash/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
@@ -138,6 +139,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Biotech** | 1 | [Browse →](./biotech/) |
+| 🏷️ **Tool-call-validation** | 1 | [Browse →](./tool-call-validation/) |
+| 🏷️ **Smarthome** | 1 | [Browse →](./smarthome/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Loglan** | 1 | [Browse →](./loglan/) |
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
@@ -147,7 +151,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Prompt-management** | 1 | [Browse →](./prompt-management/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Obsidian** | 1 | [Browse →](./obsidian/) |
-| 🏷️ **Nodejs** | 1 | [Browse →](./nodejs/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
 | 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
