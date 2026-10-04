@@ -2,7 +2,7 @@
 
 > 
 
-**310 projects** in this category.
+**311 projects** in this category.
 
 ## Projects
 
@@ -248,76 +248,77 @@
 | 238 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
 | 239 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
 | 240 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 572 | JavaScript | 49/100 |
-| 241 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
-| 242 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 256 | Rust | 48/100 |
-| 243 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 402 | Shell | 48/100 |
-| 244 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 323 | C++ | 48/100 |
-| 245 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 48/100 |
-| 246 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 145 | C | 48/100 |
-| 247 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 123 | Rust | 48/100 |
-| 248 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
-| 249 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 48/100 |
-| 250 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 208 | Rust | 47/100 |
-| 251 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 120 | Rust | 47/100 |
-| 252 | [kunkka19xx/look](./kunkka19xx-look.md) | ⭐ 117 | Swift | 47/100 |
-| 253 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 47/100 |
-| 254 | [royalpinto007/Tiny-Day](./royalpinto007-tiny-day.md) | ⭐ 1 | TypeScript | 46/100 |
-| 255 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ — | — | 46/100 |
-| 256 | [google/clasp](./google-clasp.md) | ⭐ — | — | 46/100 |
-| 257 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 1.5k | C++ | 46/100 |
-| 258 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 46/100 |
-| 259 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
-| 260 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ — | — | 45/100 |
-| 261 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ — | — | 45/100 |
-| 262 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ — | — | 45/100 |
-| 263 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ — | — | 45/100 |
-| 264 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ — | — | 45/100 |
-| 265 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ — | — | 45/100 |
-| 266 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ — | — | 45/100 |
-| 267 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
-| 268 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
-| 269 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
-| 270 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2k | Java | 45/100 |
-| 271 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 440 | Pascal | 45/100 |
-| 272 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 901 | Rust | 45/100 |
-| 273 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 45/100 |
-| 274 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 306 | C# | 45/100 |
-| 275 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
-| 276 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
-| 277 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 278 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
-| 279 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 280 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
-| 281 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
-| 282 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 1 | HTML | 42/100 |
-| 283 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ — | — | 42/100 |
-| 284 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |
-| 285 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 768 | Rust | 42/100 |
-| 286 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 287 | [mohannad789/claude-desktop-skin](./mohannad789-claude-desktop-skin.md) | ⭐ — | — | 41/100 |
-| 288 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
-| 289 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
-| 290 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
-| 291 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
-| 292 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
-| 293 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
-| 294 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
-| 295 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
-| 296 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 297 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 298 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
-| 299 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 300 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
-| 301 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
-| 302 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
-| 303 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
-| 304 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
-| 305 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
-| 306 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
-| 307 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
-| 308 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
-| 309 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 310 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
+| 241 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
+| 242 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
+| 243 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 256 | Rust | 48/100 |
+| 244 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 402 | Shell | 48/100 |
+| 245 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 323 | C++ | 48/100 |
+| 246 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 48/100 |
+| 247 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 145 | C | 48/100 |
+| 248 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 123 | Rust | 48/100 |
+| 249 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
+| 250 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 48/100 |
+| 251 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 208 | Rust | 47/100 |
+| 252 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 120 | Rust | 47/100 |
+| 253 | [kunkka19xx/look](./kunkka19xx-look.md) | ⭐ 117 | Swift | 47/100 |
+| 254 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 47/100 |
+| 255 | [royalpinto007/Tiny-Day](./royalpinto007-tiny-day.md) | ⭐ 1 | TypeScript | 46/100 |
+| 256 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ — | — | 46/100 |
+| 257 | [google/clasp](./google-clasp.md) | ⭐ — | — | 46/100 |
+| 258 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 1.5k | C++ | 46/100 |
+| 259 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 46/100 |
+| 260 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
+| 261 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ — | — | 45/100 |
+| 262 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ — | — | 45/100 |
+| 263 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ — | — | 45/100 |
+| 264 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ — | — | 45/100 |
+| 265 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ — | — | 45/100 |
+| 266 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ — | — | 45/100 |
+| 267 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ — | — | 45/100 |
+| 268 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
+| 269 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
+| 270 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
+| 271 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2k | Java | 45/100 |
+| 272 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 440 | Pascal | 45/100 |
+| 273 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 901 | Rust | 45/100 |
+| 274 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 45/100 |
+| 275 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 306 | C# | 45/100 |
+| 276 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
+| 277 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
+| 278 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
+| 279 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 280 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 281 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
+| 282 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
+| 283 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 1 | HTML | 42/100 |
+| 284 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ — | — | 42/100 |
+| 285 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |
+| 286 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 768 | Rust | 42/100 |
+| 287 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
+| 288 | [mohannad789/claude-desktop-skin](./mohannad789-claude-desktop-skin.md) | ⭐ — | — | 41/100 |
+| 289 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
+| 290 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
+| 291 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
+| 292 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
+| 293 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ — | — | 41/100 |
+| 294 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
+| 295 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
+| 296 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
+| 297 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
+| 298 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 299 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 300 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 301 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
+| 302 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
+| 303 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
+| 304 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
+| 305 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
+| 306 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
+| 307 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
+| 308 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 309 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
+| 310 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 311 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
 
 ---
 

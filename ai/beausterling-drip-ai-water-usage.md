@@ -1,6 +1,6 @@
 # beausterling/drip-ai-water-usage
 
-[![Stars](https://img.shields.io/github/stars/beausterling/drip-ai-water-usage?style=flat-square&color=yellow)](https://github.com/beausterling/drip-ai-water-usage/stargazers) [![Forks](https://img.shields.io/github/forks/beausterling/drip-ai-water-usage?style=flat-square&color=blue)](https://github.com/beausterling/drip-ai-water-usage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beausterling/drip-ai-water-usage?style=flat-square&color=yellow)](https://github.com/beausterling/drip-ai-water-usage/stargazers) [![Forks](https://img.shields.io/github/forks/beausterling/drip-ai-water-usage?style=flat-square&color=blue)](https://github.com/beausterling/drip-ai-water-usage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > How much water is your AI agent drinking? Live water-usage meter for Claude Code & Codex CLI — status line, split-pane meter, research-backed estimates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ beausterling/drip-ai-water-usage：beausterling/drip-ai-water-usage may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

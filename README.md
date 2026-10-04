@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38290** |
+| **Projects** | **38296** |
 | **Categories** | **324** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14867 | [Browse →](./misc/) |
+| 📦 **Misc** | 14868 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -40,20 +40,20 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 490 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 429 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 430 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 405 | [Browse →](./security/) |
 | 🏷️ **Communication** | 399 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
 | 💳 **Payments** | 327 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 321 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 310 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 311 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 289 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 44 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 46 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
@@ -66,10 +66,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🏷️ **Local-first** | 7 | [Browse →](./local-first/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Sanity** | 6 | [Browse →](./sanity/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Privacy** | 5 | [Browse →](./privacy/) |
-| 🏷️ **Sanity** | 5 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Offline** | 4 | [Browse →](./offline/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
