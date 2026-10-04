@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [OverLab-Group/OLSRT](./overlab-group-olsrt.md) | ⭐ 3 | C | 46/100 |
+| 1 | [OverLab-Group/OLSRT](./overlab-group-olsrt.md) | ⭐ 3 | C | 43/100 |
 
 ---
 

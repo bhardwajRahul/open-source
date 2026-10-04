@@ -1,6 +1,6 @@
 # OverLab-Group/OLSRT
 
-[![Stars](https://img.shields.io/github/stars/OverLab-Group/OLSRT?style=flat-square&color=yellow)](https://github.com/OverLab-Group/OLSRT/stargazers) [![Forks](https://img.shields.io/github/forks/OverLab-Group/OLSRT?style=flat-square&color=blue)](https://github.com/OverLab-Group/OLSRT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OverLab-Group/OLSRT?style=flat-square&color=yellow)](https://github.com/OverLab-Group/OLSRT/stargazers) [![Forks](https://img.shields.io/github/forks/OverLab-Group/OLSRT?style=flat-square&color=blue)](https://github.com/OverLab-Group/OLSRT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Universal, production‑ready runtime for all languages.  Minimal, hackable, and powerful enough for enterprise workloads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ OverLab-Group/OLSRT：OverLab-Group/OLSRT may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 800/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
