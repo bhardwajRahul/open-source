@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38282** |
-| **Categories** | **321** |
+| **Projects** | **38290** |
+| **Categories** | **324** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14866 | [Browse →](./misc/) |
+| 📦 **Misc** | 14867 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 654 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 655 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 625 | [Browse →](./networking/) |
 | 📱 **Mobile** | 590 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
@@ -53,11 +53,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 43 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 44 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
 | 🏷️ **Llm** | 12 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 11 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Offline-first** | 2 | [Browse →](./offline-first/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |
@@ -139,6 +140,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
+| 🏷️ **Lab-protocols** | 1 | [Browse →](./lab-protocols/) |
+| 🏷️ **Invoice-processing** | 1 | [Browse →](./invoice-processing/) |
 | 🏷️ **Biotech** | 1 | [Browse →](./biotech/) |
 | 🏷️ **Tool-call-validation** | 1 | [Browse →](./tool-call-validation/) |
 | 🏷️ **Smarthome** | 1 | [Browse →](./smarthome/) |
@@ -311,7 +315,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Net** | 1 | [Browse →](./net/) |
-| 🏷️ **Offline-first** | 1 | [Browse →](./offline-first/) |
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |
 | 🏷️ **Minecraft** | 1 | [Browse →](./minecraft/) |
 | 🏷️ **Risk-modeling** | 1 | [Browse →](./risk-modeling/) |
