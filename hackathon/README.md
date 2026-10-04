@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -13,8 +13,9 @@
 | 3 | [rajj28/verdict](./rajj28-verdict.md) | ⭐ — | Python | 39/100 |
 | 4 | [AryanSaxenaa/raptors](./aryansaxenaa-raptors.md) | ⭐ — | Python | 39/100 |
 | 5 | [Africa-Deep-Tech-Foundation/adtc-profiler](./africa-deep-tech-foundation-adtc-profiler.md) | ⭐ 22 | Python | 38/100 |
-| 6 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 36/100 |
-| 7 | [rishikeshdas887/judgeforge-dogfood-2026](./rishikeshdas887-judgeforge-dogfood-2026.md) | ⭐ — | Java | 36/100 |
+| 6 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 36/100 |
+| 7 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 36/100 |
+| 8 | [rishikeshdas887/judgeforge-dogfood-2026](./rishikeshdas887-judgeforge-dogfood-2026.md) | ⭐ — | Java | 36/100 |
 
 ---
 

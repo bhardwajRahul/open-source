@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ronitgupta138/aero-linux](./ronitgupta138-aero-linux.md) | ⭐ 1 | Python | 60/100 |
+| 1 | [ronitgupta138/aero-linux](./ronitgupta138-aero-linux.md) | ⭐ 1 | Python | 57/100 |
 
 ---
 

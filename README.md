@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38166** |
-| **Categories** | **295** |
+| **Projects** | **38171** |
+| **Categories** | **296** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14824 | [Browse →](./misc/) |
+| 📦 **Misc** | 14826 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2696 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -60,12 +60,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
+| 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
-| 🏷️ **Hackathon** | 7 | [Browse →](./hackathon/) |
+| 🏷️ **Local-first** | 7 | [Browse →](./local-first/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Claude-code** | 6 | [Browse →](./claude-code/) |
-| 🏷️ **Local-first** | 6 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-ai** | 5 | [Browse →](./local-ai/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -129,6 +129,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Current-affairs** | 1 | [Browse →](./current-affairs/) |
 | 🏷️ **Water-quality** | 1 | [Browse →](./water-quality/) |
 | 🏷️ **Bot-detection** | 1 | [Browse →](./bot-detection/) |
 | 🏷️ **Chore-management** | 1 | [Browse →](./chore-management/) |

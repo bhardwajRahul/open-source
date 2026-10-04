@@ -11,9 +11,9 @@
 | 1 | [csr1010/wappy-kit](./csr1010-wappy-kit.md) | ⭐ 2 | TypeScript | 71/100 |
 | 2 | [roydonsequeira/CORTEX-Private-Intelligence-Framework](./roydonsequeira-cortex-private-intelligence-framework.md) | ⭐ 4 | Python | 69/100 |
 | 3 | [akyourowngames/A.N.K.I.T.A](./akyourowngames-a.n.k.i.t.a.md) | ⭐ 3 | JavaScript | 65/100 |
-| 4 | [R0zumnik/memglow](./r0zumnik-memglow.md) | ⭐ 2 | JavaScript | 62/100 |
-| 5 | [Jramone3/REMI_Enterprise_Suite](./jramone3-remi-enterprise-suite.md) | ⭐ — | Python | 60/100 |
-| 6 | [beausterling/drip-ai-water-usage](./beausterling-drip-ai-water-usage.md) | ⭐ 1 | Python | 59/100 |
+| 4 | [Jramone3/REMI_Enterprise_Suite](./jramone3-remi-enterprise-suite.md) | ⭐ — | Python | 60/100 |
+| 5 | [beausterling/drip-ai-water-usage](./beausterling-drip-ai-water-usage.md) | ⭐ 1 | Python | 59/100 |
+| 6 | [R0zumnik/memglow](./r0zumnik-memglow.md) | ⭐ 2 | JavaScript | 59/100 |
 | 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 59/100 |
 | 8 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 54/100 |
 | 9 | [zhx842htt/devspend](./zhx842htt-devspend.md) | ⭐ — | JavaScript | 54/100 |
