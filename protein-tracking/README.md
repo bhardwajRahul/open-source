@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/protein-pal](./hahahahahahahahah6-protein-pal.md) | ⭐ — | HTML | 39/100 |
+| 1 | [hahahahahahahahah6/protein-pal](./hahahahahahahahah6-protein-pal.md) | ⭐ — | HTML | 36/100 |
 
 ---
 

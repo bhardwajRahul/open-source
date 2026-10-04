@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eulogik/nirnay](./eulogik-nirnay.md) | ⭐ — | Python | 47/100 |
+| 1 | [eulogik/nirnay](./eulogik-nirnay.md) | ⭐ — | Python | 44/100 |
 
 ---
 
