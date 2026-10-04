@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [asciimoo/searxng](./asciimoo-searxng.md) | ⭐ — | — | 24/100 |
+| 1 | [NikhilRaman12/MigrationLens](./nikhilraman12-migrationlens.md) | ⭐ — | TypeScript | 42/100 |
+| 2 | [asciimoo/searxng](./asciimoo-searxng.md) | ⭐ — | — | 24/100 |
 
 ---
 
