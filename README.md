@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38239** |
-| **Categories** | **313** |
+| **Projects** | **38245** |
+| **Categories** | **314** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14851 | [Browse →](./misc/) |
+| 📦 **Misc** | 14853 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4244 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -58,8 +58,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 12 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
+| 🏷️ **Open-source** | 10 | [Browse →](./open-source/) |
 | 🏷️ **Local-llm** | 9 | [Browse →](./local-llm/) |
-| 🏷️ **Open-source** | 9 | [Browse →](./open-source/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Local-ai** | 7 | [Browse →](./local-ai/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Offline** | 3 | [Browse →](./offline/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
