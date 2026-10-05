@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 11.7k | C++ | 67/100 |
+| 1 | [Kinora-dev/kinora](./kinora-dev-kinora.md) | ⭐ 33 | TypeScript | 67/100 |
 
 ---
 

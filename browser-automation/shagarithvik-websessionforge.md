@@ -1,6 +1,6 @@
 # shagarithvik/WebSessionForge
 
-[![Stars](https://img.shields.io/github/stars/shagarithvik/WebSessionForge?style=flat-square&color=yellow)](https://github.com/shagarithvik/WebSessionForge/stargazers) [![Forks](https://img.shields.io/github/forks/shagarithvik/WebSessionForge?style=flat-square&color=blue)](https://github.com/shagarithvik/WebSessionForge/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shagarithvik/WebSessionForge?style=flat-square&color=yellow)](https://github.com/shagarithvik/WebSessionForge/stargazers) [![Forks](https://img.shields.io/github/forks/shagarithvik/WebSessionForge?style=flat-square&color=blue)](https://github.com/shagarithvik/WebSessionForge/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ browser automation · proxy management · WebView2 · .NET 8 · logging · healt
 
 ### English
 
-shagarithvik/WebSessionForge: shagarithvik/WebSessionForge may be useful when its README and activity match a concrete workflow.. Use it for browser automation, proxy management, WebView2, .NET 8, logging, health monitoring. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shagarithvik/WebSessionForge: shagarithvik/WebSessionForge may be useful when its README and activity match a concrete workflow.. Use it for browser automation, proxy management, WebView2, .NET 8, logging, health monitoring. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-shagarithvik/WebSessionForge: open-source проект в категориях browser automation, proxy management, WebView2, .NET 8, logging, health monitoring. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+shagarithvik/WebSessionForge: open-source проект в категориях browser automation, proxy management, WebView2, .NET 8, logging, health monitoring. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-shagarithvik/WebSessionForge：shagarithvik/WebSessionForge may be useful when its README and activity match a concrete workflow.。适合用于browser automation、proxy management、WebView2、.NET 8、logging、health monitoring。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shagarithvik/WebSessionForge：shagarithvik/WebSessionForge may be useful when its README and activity match a concrete workflow.。适合用于browser automation、proxy management、WebView2、.NET 8、logging、health monitoring。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ shagarithvik/WebSessionForge：shagarithvik/WebSessionForge may be useful when i
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ shagarithvik/WebSessionForge：shagarithvik/WebSessionForge may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 18/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

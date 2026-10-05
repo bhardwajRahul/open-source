@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [roshandalabehera894-a11y/SimpleBankSimulator-Project](./roshandalabehera894-a11y-simplebanksimulator-project.md) | ⭐ — | Java | 39/100 |
+| 1 | [roshandalabehera894-a11y/SimpleBankSimulator-Project](./roshandalabehera894-a11y-simplebanksimulator-project.md) | ⭐ — | Java | 36/100 |
 
 ---
 

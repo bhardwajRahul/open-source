@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shagarithvik/WebSessionForge](./shagarithvik-websessionforge.md) | ⭐ — | C# | 37/100 |
+| 1 | [shagarithvik/WebSessionForge](./shagarithvik-websessionforge.md) | ⭐ — | C# | 34/100 |
 
 ---
 

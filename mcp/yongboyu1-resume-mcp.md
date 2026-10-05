@@ -1,6 +1,6 @@
 # YongBoYu1/resume-mcp
 
-[![Stars](https://img.shields.io/github/stars/YongBoYu1/resume-mcp?style=flat-square&color=yellow)](https://github.com/YongBoYu1/resume-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/YongBoYu1/resume-mcp?style=flat-square&color=blue)](https://github.com/YongBoYu1/resume-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YongBoYu1/resume-mcp?style=flat-square&color=yellow)](https://github.com/YongBoYu1/resume-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/YongBoYu1/resume-mcp?style=flat-square&color=blue)](https://github.com/YongBoYu1/resume-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > stdio MCP: fetch/cache public resume.json + llms.txt; tool answers with source URLs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-09-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ YongBoYu1/resume-mcp：YongBoYu1/resume-mcp helps connect AI assistants to real 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 62/100 |
-| production | 46/100 |
-| outlook | 43/100 |
+| production | 40/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
