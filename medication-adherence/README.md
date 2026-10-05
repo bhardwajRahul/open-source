@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AmjustGettingStarted/carecue-ai](./amjustgettingstarted-carecue-ai.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [AmjustGettingStarted/carecue-ai](./amjustgettingstarted-carecue-ai.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
