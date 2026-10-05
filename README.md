@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38301** |
+| **Projects** | **38308** |
 | **Categories** | **324** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14870 | [Browse →](./misc/) |
+| 📦 **Misc** | 14872 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2697 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2283 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 503 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 490 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 430 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 431 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 405 | [Browse →](./security/) |
 | 🏷️ **Communication** | 399 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -60,13 +60,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-first** | 9 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
+| 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
-| 🏷️ **Local-first** | 7 | [Browse →](./local-first/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Sanity** | 6 | [Browse →](./sanity/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Self-hosting** | 6 | [Browse →](./self-hosting/) |
 | 🏷️ **Privacy** | 5 | [Browse →](./privacy/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Offline-first** | 2 | [Browse →](./offline-first/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
@@ -292,7 +293,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
 | 🏷️ **Linux** | 1 | [Browse →](./linux/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
-| 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
