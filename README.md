@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38362** |
+| **Projects** | **38367** |
 | **Categories** | **336** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14885 | [Browse →](./misc/) |
+| 📦 **Misc** | 14887 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4247 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2700 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1362 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1363 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 591 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 588 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 580 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 503 | [Browse →](./database/) |
+| 🏷️ **Database** | 504 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 490 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
 | 🏷️ **Video-editing** | 432 | [Browse →](./video-editing/) |
@@ -70,11 +70,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
+| 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
 | 🏷️ **Offline** | 4 | [Browse →](./offline/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
-| 🏷️ **Ci** | 4 | [Browse →](./ci/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
