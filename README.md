@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38329** |
-| **Categories** | **327** |
+| **Projects** | **38331** |
+| **Categories** | **328** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -71,6 +71,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 6 | [Browse →](./privacy/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
 | 🏷️ **Offline** | 4 | [Browse →](./offline/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Ci** | 4 | [Browse →](./ci/) |
@@ -89,7 +90,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Vue** | 3 | [Browse →](./vue/) |
 | 🏷️ **Raspberry-pi** | 3 | [Browse →](./raspberry-pi/) |
-| 🏷️ **N8n** | 3 | [Browse →](./n8n/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Agent-orchestration** | 3 | [Browse →](./agent-orchestration/) |
@@ -144,6 +144,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |
 | 🏷️ **Adhd** | 1 | [Browse →](./adhd/) |

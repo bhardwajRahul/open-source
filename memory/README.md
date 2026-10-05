@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MemTether/MemTether](./memtether-memtether.md) | ⭐ 1 | Python | 75/100 |
+| 1 | [MemTether/MemTether](./memtether-memtether.md) | ⭐ 1 | Python | 72/100 |
 
 ---
 

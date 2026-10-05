@@ -1,6 +1,6 @@
 # MystenLabs/MemWal
 
-[![Stars](https://img.shields.io/github/stars/MystenLabs/MemWal?style=flat-square&color=yellow)](https://github.com/MystenLabs/MemWal/stargazers) [![Forks](https://img.shields.io/github/forks/MystenLabs/MemWal?style=flat-square&color=blue)](https://github.com/MystenLabs/MemWal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MystenLabs/MemWal?style=flat-square&color=yellow)](https://github.com/MystenLabs/MemWal/stargazers) [![Forks](https://img.shields.io/github/forks/MystenLabs/MemWal?style=flat-square&color=blue)](https://github.com/MystenLabs/MemWal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ MystenLabs/MemWal：MystenLabs/MemWal may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 34/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 700/100 |
 | stars | 44/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

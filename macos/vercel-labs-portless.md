@@ -1,6 +1,6 @@
 # vercel-labs/portless
 
-[![Stars](https://img.shields.io/github/stars/vercel-labs/portless?style=flat-square&color=yellow)](https://github.com/vercel-labs/portless/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/portless?style=flat-square&color=blue)](https://github.com/vercel-labs/portless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel-labs/portless?style=flat-square&color=yellow)](https://github.com/vercel-labs/portless/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/portless?style=flat-square&color=blue)](https://github.com/vercel-labs/portless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Replace port numbers with stable, named local URLs. For humans and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.6k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ vercel-labs/portless：vercel-labs/portless may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 81/100 |
 | categoryMatchCount | 700/100 |
 | stars | 87/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

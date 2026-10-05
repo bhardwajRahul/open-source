@@ -1,6 +1,6 @@
 # MemTether/MemTether
 
-[![Stars](https://img.shields.io/github/stars/MemTether/MemTether?style=flat-square&color=yellow)](https://github.com/MemTether/MemTether/stargazers) [![Forks](https://img.shields.io/github/forks/MemTether/MemTether?style=flat-square&color=blue)](https://github.com/MemTether/MemTether/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemTether/MemTether?style=flat-square&color=yellow)](https://github.com/MemTether/MemTether/stargazers) [![Forks](https://img.shields.io/github/forks/MemTether/MemTether?style=flat-square&color=blue)](https://github.com/MemTether/MemTether/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-client AI memory hub - one physical SQLite, many clients. File-level pointers, REST API, MCP. Zero cloud. Dual-timeline governance. PyPI: memtether
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ MemTether/MemTether：MemTether/MemTether may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 100/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
