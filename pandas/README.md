@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/polars-ready](./arthur031221-polars-ready.md) | ⭐ — | Python | 54/100 |
+| 1 | [Arthur031221/polars-ready](./arthur031221-polars-ready.md) | ⭐ — | Python | 51/100 |
 
 ---
 

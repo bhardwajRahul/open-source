@@ -1,6 +1,6 @@
 # Arthur031221/polars-ready
 
-[![Stars](https://img.shields.io/github/stars/Arthur031221/polars-ready?style=flat-square&color=yellow)](https://github.com/Arthur031221/polars-ready/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/polars-ready?style=flat-square&color=blue)](https://github.com/Arthur031221/polars-ready/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur031221/polars-ready?style=flat-square&color=yellow)](https://github.com/Arthur031221/polars-ready/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/polars-ready?style=flat-square&color=blue)](https://github.com/Arthur031221/polars-ready/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only audit of Pandas code for Polars migration blockers and rewrite patterns
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ Arthur031221/polars-ready：Arthur031221/polars-ready may be useful when its REA
 - primary language: Python
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 58/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

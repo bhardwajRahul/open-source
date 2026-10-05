@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38452** |
+| **Projects** | **38458** |
 | **Categories** | **344** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14929 | [Browse →](./misc/) |
+| 📦 **Misc** | 14931 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2702 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2703 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2286 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1365 | [Browse →](./automation/) |
@@ -69,10 +69,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Offline** | 6 | [Browse →](./offline/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Stylometry** | 5 | [Browse →](./stylometry/) |
-| 🏷️ **Offline** | 5 | [Browse →](./offline/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
@@ -101,6 +101,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
 | 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
@@ -178,7 +180,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Smarthome** | 1 | [Browse →](./smarthome/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Loglan** | 1 | [Browse →](./loglan/) |
-| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Generator** | 1 | [Browse →](./generator/) |
 | 🏷️ **Stock-management** | 1 | [Browse →](./stock-management/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
@@ -326,7 +327,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Profinet** | 1 | [Browse →](./profinet/) |
 | 🏷️ **Web-games** | 1 | [Browse →](./web-games/) |
 | 🏷️ **Apx** | 1 | [Browse →](./apx/) |
-| 🏷️ **Android** | 1 | [Browse →](./android/) |
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
