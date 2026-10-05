@@ -1,6 +1,6 @@
 # gaupalawes/chunkcrate
 
-[![Stars](https://img.shields.io/github/stars/gaupalawes/chunkcrate?style=flat-square&color=yellow)](https://github.com/gaupalawes/chunkcrate/stargazers) [![Forks](https://img.shields.io/github/forks/gaupalawes/chunkcrate?style=flat-square&color=blue)](https://github.com/gaupalawes/chunkcrate/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaupalawes/chunkcrate?style=flat-square&color=yellow)](https://github.com/gaupalawes/chunkcrate/stargazers) [![Forks](https://img.shields.io/github/forks/gaupalawes/chunkcrate?style=flat-square&color=blue)](https://github.com/gaupalawes/chunkcrate/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A single-file PHP web file manager with 2MB chunked uploads, built-in code editor, media viewer, and zip support — designed for shared cPanel hosting & Imunify360.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ php · file-upload · chunked-upload · shared-hosting · security
 
 ### English
 
-gaupalawes/chunkcrate: gaupalawes/chunkcrate may be useful when its README and activity match a concrete workflow.. Use it for php, file-upload, chunked-upload, shared-hosting, security. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gaupalawes/chunkcrate: gaupalawes/chunkcrate may be useful when its README and activity match a concrete workflow.. Use it for php, file-upload, chunked-upload, shared-hosting, security. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-gaupalawes/chunkcrate: open-source проект в категориях php, file-upload, chunked-upload, shared-hosting, security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gaupalawes/chunkcrate: open-source проект в категориях php, file-upload, chunked-upload, shared-hosting, security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-gaupalawes/chunkcrate：gaupalawes/chunkcrate may be useful when its README and activity match a concrete workflow.。适合用于php、file-upload、chunked-upload、shared-hosting、security。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gaupalawes/chunkcrate：gaupalawes/chunkcrate may be useful when its README and activity match a concrete workflow.。适合用于php、file-upload、chunked-upload、shared-hosting、security。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ gaupalawes/chunkcrate：gaupalawes/chunkcrate may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ gaupalawes/chunkcrate：gaupalawes/chunkcrate may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 49/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
