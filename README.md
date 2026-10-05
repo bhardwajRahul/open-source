@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38334** |
-| **Categories** | **328** |
+| **Projects** | **38342** |
+| **Categories** | **330** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14879 | [Browse →](./misc/) |
+| 📦 **Misc** | 14882 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4246 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2699 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2284 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 48 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 49 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Llm** | 13 | [Browse →](./llm/) |
@@ -62,13 +62,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
+| 🏷️ **Claude-code** | 8 | [Browse →](./claude-code/) |
 | 🏷️ **Hackathon** | 8 | [Browse →](./hackathon/) |
 | 🏷️ **Git** | 8 | [Browse →](./git/) |
+| 🏷️ **Privacy** | 7 | [Browse →](./privacy/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
-| 🏷️ **Claude-code** | 7 | [Browse →](./claude-code/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Privacy** | 6 | [Browse →](./privacy/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
@@ -144,6 +144,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Notion** | 1 | [Browse →](./notion/) |
+| 🏷️ **Drobek** | 1 | [Browse →](./drobek/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Devtv** | 1 | [Browse →](./devtv/) |

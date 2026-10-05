@@ -2,7 +2,7 @@
 
 > 
 
-**6 projects** in this category.
+**7 projects** in this category.
 
 ## Projects
 
@@ -12,8 +12,9 @@
 | 2 | [Bangkah/CRM-Automation-System](./bangkah-crm-automation-system.md) | ⭐ 1 | Go | 47/100 |
 | 3 | [chanduchowdary-27/privacy-offer-check](./chanduchowdary-27-privacy-offer-check.md) | ⭐ — | TypeScript | 42/100 |
 | 4 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 39/100 |
-| 5 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 36/100 |
-| 6 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 36/100 |
+| 5 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 36/100 |
+| 7 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

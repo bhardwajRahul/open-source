@@ -2,7 +2,7 @@
 
 > 
 
-**48 projects** in this category.
+**49 projects** in this category.
 
 ## Projects
 
@@ -29,33 +29,34 @@
 | 19 | [nexus-digital-in/sanity-ai-agent](./nexus-digital-in-sanity-ai-agent.md) | ⭐ — | JavaScript | 41/100 |
 | 20 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 41/100 |
 | 21 | [alapha888/agent-skills-en](./alapha888-agent-skills-en.md) | ⭐ — | — | 40/100 |
-| 22 | [Bientechsavvy/electric-showcase](./bientechsavvy-electric-showcase.md) | ⭐ — | HTML | 39/100 |
-| 23 | [Shashank0701-byte/vivabuddy](./shashank0701-byte-vivabuddy.md) | ⭐ — | TypeScript | 39/100 |
-| 24 | [ritikahirwar8168-dev/campus-chatbot](./ritikahirwar8168-dev-campus-chatbot.md) | ⭐ — | Python | 39/100 |
-| 25 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 39/100 |
-| 26 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 39/100 |
-| 27 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
-| 28 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
-| 29 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
-| 30 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
-| 31 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
-| 32 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 33 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 34 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 35 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 36 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
-| 37 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
-| 38 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 39 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 40 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 41 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 42 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 43 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 44 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 45 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 46 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 47 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 48 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 22 | [abubakar-ahmed-dev/wazeh-terms](./abubakar-ahmed-dev-wazeh-terms.md) | ⭐ — | TypeScript | 39/100 |
+| 23 | [Bientechsavvy/electric-showcase](./bientechsavvy-electric-showcase.md) | ⭐ — | HTML | 39/100 |
+| 24 | [Shashank0701-byte/vivabuddy](./shashank0701-byte-vivabuddy.md) | ⭐ — | TypeScript | 39/100 |
+| 25 | [ritikahirwar8168-dev/campus-chatbot](./ritikahirwar8168-dev-campus-chatbot.md) | ⭐ — | Python | 39/100 |
+| 26 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 39/100 |
+| 27 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 39/100 |
+| 28 | [asakaxgit/askif](./asakaxgit-askif.md) | ⭐ — | TypeScript | 39/100 |
+| 29 | [allicimen/Leetcode_Tarzi_Algoritmalar_Python](./allicimen-leetcode-tarzi-algoritmalar-python.md) | ⭐ — | Python | 37/100 |
+| 30 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 36/100 |
+| 31 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 36/100 |
+| 32 | [strands-ai/agents-sdk](./strands-ai-agents-sdk.md) | ⭐ — | — | 36/100 |
+| 33 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 34 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 35 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 36 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 37 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 38 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
+| 39 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 40 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 41 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 42 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 43 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 44 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 45 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 46 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 47 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 48 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 49 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [psicossz29-netizen/l2gas-cli](./psicossz29-netizen-l2gas-cli.md) | ⭐ — | JavaScript | 49/100 |
+| 1 | [psicossz29-netizen/l2gas-cli](./psicossz29-netizen-l2gas-cli.md) | ⭐ — | JavaScript | 46/100 |
 
 ---
 
