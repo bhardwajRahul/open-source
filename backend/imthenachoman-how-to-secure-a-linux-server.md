@@ -64,18 +64,18 @@ imthenachoman/How-To-Secure-A-Linux-Server：imthenachoman/How-To-Secure-A-Linux
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 87/100 |
-| integration | 30/100 |
-| production | 69/100 |
-| outlook | 80/100 |
-| adoption | 92/100 |
-| categoryMatchCount | 200/100 |
-| stars | 96/100 |
 | forks | 83/100 |
-| recency | 80/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
+| adoption | 92/100 |
+| production | 69/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

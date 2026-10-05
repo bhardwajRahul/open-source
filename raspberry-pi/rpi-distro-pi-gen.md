@@ -1,6 +1,6 @@
 # RPi-Distro/pi-gen
 
-[![Stars](https://img.shields.io/github/stars/RPi-Distro/pi-gen?style=flat-square&color=yellow)](https://github.com/RPi-Distro/pi-gen/stargazers) [![Forks](https://img.shields.io/github/forks/RPi-Distro/pi-gen?style=flat-square&color=blue)](https://github.com/RPi-Distro/pi-gen/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RPi-Distro/pi-gen?style=flat-square&color=yellow)](https://github.com/RPi-Distro/pi-gen/stargazers) [![Forks](https://img.shields.io/github/forks/RPi-Distro/pi-gen?style=flat-square&color=blue)](https://github.com/RPi-Distro/pi-gen/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tool used to create the official Raspberry Pi OS images
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ RPi-Distro/pi-gen：RPi-Distro/pi-gen may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 600/100 |
 | stars | 75/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RPi-Distro/pi-gen](./rpi-distro-pi-gen.md) | ⭐ 3.3k | Shell | 60/100 |
+| 1 | [RPi-Distro/pi-gen](./rpi-distro-pi-gen.md) | ⭐ 3.3k | Shell | 57/100 |
 | 2 | [mrworf/photoframe](./mrworf-photoframe.md) | ⭐ 237 | Python | 48/100 |
 | 3 | [cdr/code](./cdr-code.md) | ⭐ — | — | 24/100 |
 
