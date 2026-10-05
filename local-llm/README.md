@@ -13,7 +13,7 @@
 | 3 | [amandewatnitrr/plain-words](./amandewatnitrr-plain-words.md) | ⭐ — | Python | 42/100 |
 | 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 41/100 |
 | 5 | [apurva0510/argus](./apurva0510-argus.md) | ⭐ 1 | Python | 40/100 |
-| 6 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 39/100 |
+| 6 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
 | 7 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
 | 8 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
 | 9 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
