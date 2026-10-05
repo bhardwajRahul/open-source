@@ -1,6 +1,6 @@
 # UpstandPlatform/OpenRive
 
-[![Stars](https://img.shields.io/github/stars/UpstandPlatform/OpenRive?style=flat-square&color=yellow)](https://github.com/UpstandPlatform/OpenRive/stargazers) [![Forks](https://img.shields.io/github/forks/UpstandPlatform/OpenRive?style=flat-square&color=blue)](https://github.com/UpstandPlatform/OpenRive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UpstandPlatform/OpenRive?style=flat-square&color=yellow)](https://github.com/UpstandPlatform/OpenRive/stargazers) [![Forks](https://img.shields.io/github/forks/UpstandPlatform/OpenRive?style=flat-square&color=blue)](https://github.com/UpstandPlatform/OpenRive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Build inetractive UIs, motion, and game experiences in the OpenRive Editor, or let an AI agent generate them through the CLI, Your creations run natively across mobile, desktop, web, consoles, TVs, and vehicles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ UpstandPlatform/OpenRive：UpstandPlatform/OpenRive may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 700/100 |
 | stars | 26/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38298** |
+| **Projects** | **38300** |
 | **Categories** | **324** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -56,8 +56,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 46 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🏷️ **Llm** | 13 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
-| 🏷️ **Llm** | 12 | [Browse →](./llm/) |
 | 🏷️ **Open-source** | 11 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 11 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Self-hosted** | 2 | [Browse →](./self-hosted/) |
 | 🏷️ **Offline-first** | 2 | [Browse →](./offline-first/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
@@ -269,7 +270,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Federated-learning** | 1 | [Browse →](./federated-learning/) |
 | 🏷️ **S7comm** | 1 | [Browse →](./s7comm/) |
 | 🏷️ **Travel** | 1 | [Browse →](./travel/) |
-| 🏷️ **Self-hosted** | 1 | [Browse →](./self-hosted/) |
 | 🏷️ **Template** | 1 | [Browse →](./template/) |
 | 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
 | 🏷️ **Video-encoding** | 1 | [Browse →](./video-encoding/) |
