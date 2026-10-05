@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/corswhy](./arthur031221-corswhy.md) | ⭐ — | JavaScript | 50/100 |
+| 1 | [Arthur031221/corswhy](./arthur031221-corswhy.md) | ⭐ — | JavaScript | 47/100 |
 
 ---
 

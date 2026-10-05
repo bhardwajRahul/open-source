@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [pinkpixel-dev/pulpie-mcp](./pinkpixel-dev-pulpie-mcp.md) | ⭐ 1 | Python | 68/100 |
-| 2 | [brekkylab/ailoy](./brekkylab-ailoy.md) | ⭐ 150 | Rust | 64/100 |
-| 3 | [feyninc/pulpie](./feyninc-pulpie.md) | ⭐ 81 | HTML | 63/100 |
+| 2 | [feyninc/pulpie](./feyninc-pulpie.md) | ⭐ 81 | HTML | 63/100 |
+| 3 | [brekkylab/ailoy](./brekkylab-ailoy.md) | ⭐ 150 | Rust | 61/100 |
 | 4 | [Jancera/skills](./jancera-skills.md) | ⭐ — | — | 40/100 |
 | 5 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 39/100 |
 | 6 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |

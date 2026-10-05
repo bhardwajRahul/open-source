@@ -1,6 +1,6 @@
 # brekkylab/ailoy
 
-[![Stars](https://img.shields.io/github/stars/brekkylab/ailoy?style=flat-square&color=yellow)](https://github.com/brekkylab/ailoy/stargazers) [![Forks](https://img.shields.io/github/forks/brekkylab/ailoy?style=flat-square&color=blue)](https://github.com/brekkylab/ailoy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brekkylab/ailoy?style=flat-square&color=yellow)](https://github.com/brekkylab/ailoy/stargazers) [![Forks](https://img.shields.io/github/forks/brekkylab/ailoy?style=flat-square&color=blue)](https://github.com/brekkylab/ailoy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent builder with a VM at its heart. Every agent gets its own microVM sandbox to install software, run code and use the GPU in. Python, Node.js and Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ brekkylab/ailoy：brekkylab/ailoy may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 39/100 |
 | categoryMatchCount | 500/100 |
 | stars | 46/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
