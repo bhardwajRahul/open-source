@@ -1,6 +1,6 @@
 # roydonsequeira/CORTEX-Private-Intelligence-Framework
 
-[![Stars](https://img.shields.io/github/stars/roydonsequeira/CORTEX-Private-Intelligence-Framework?style=flat-square&color=yellow)](https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework/stargazers) [![Forks](https://img.shields.io/github/forks/roydonsequeira/CORTEX-Private-Intelligence-Framework?style=flat-square&color=blue)](https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roydonsequeira/CORTEX-Private-Intelligence-Framework?style=flat-square&color=yellow)](https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework/stargazers) [![Forks](https://img.shields.io/github/forks/roydonsequeira/CORTEX-Private-Intelligence-Framework?style=flat-square&color=blue)](https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry — runs entirely on your machine with Ollama.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ roydonsequeira/CORTEX-Private-Intelligence-Framework：roydonsequeira/CORTEX-Pri
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 68/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
