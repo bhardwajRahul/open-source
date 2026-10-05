@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38371** |
+| **Projects** | **38375** |
 | **Categories** | **336** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14890 | [Browse →](./misc/) |
+| 📦 **Misc** | 14893 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4247 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2700 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
 | ✨ **Design** | 163 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 93 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 49 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |

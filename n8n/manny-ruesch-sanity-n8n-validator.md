@@ -1,6 +1,6 @@
 # manny-ruesch/sanity-n8n-validator
 
-[![Stars](https://img.shields.io/github/stars/manny-ruesch/sanity-n8n-validator?style=flat-square&color=yellow)](https://github.com/manny-ruesch/sanity-n8n-validator/stargazers) [![Forks](https://img.shields.io/github/forks/manny-ruesch/sanity-n8n-validator?style=flat-square&color=blue)](https://github.com/manny-ruesch/sanity-n8n-validator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manny-ruesch/sanity-n8n-validator?style=flat-square&color=yellow)](https://github.com/manny-ruesch/sanity-n8n-validator/stargazers) [![Forks](https://img.shields.io/github/forks/manny-ruesch/sanity-n8n-validator?style=flat-square&color=blue)](https://github.com/manny-ruesch/sanity-n8n-validator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ n8n · Sanity · API rate limits · AI agent · MCP · workflow automation
 
 ### English
 
-manny-ruesch/sanity-n8n-validator: manny-ruesch/sanity-n8n-validator may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+manny-ruesch/sanity-n8n-validator: manny-ruesch/sanity-n8n-validator may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-manny-ruesch/sanity-n8n-validator: open-source проект в категориях n8n, Sanity, API rate limits, AI agent, MCP, workflow automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+manny-ruesch/sanity-n8n-validator: open-source проект в категориях n8n, Sanity, API rate limits, AI agent, MCP, workflow automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-manny-ruesch/sanity-n8n-validator：manny-ruesch/sanity-n8n-validator may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+manny-ruesch/sanity-n8n-validator：manny-ruesch/sanity-n8n-validator may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ manny-ruesch/sanity-n8n-validator：manny-ruesch/sanity-n8n-validator may be use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ manny-ruesch/sanity-n8n-validator：manny-ruesch/sanity-n8n-validator may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 18/100 |
-| production | 54/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
