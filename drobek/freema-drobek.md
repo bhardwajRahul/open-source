@@ -1,6 +1,6 @@
 # freema/drobek
 
-[![Stars](https://img.shields.io/github/stars/freema/drobek?style=flat-square&color=yellow)](https://github.com/freema/drobek/stargazers) [![Forks](https://img.shields.io/github/forks/freema/drobek?style=flat-square&color=blue)](https://github.com/freema/drobek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freema/drobek?style=flat-square&color=yellow)](https://github.com/freema/drobek/stargazers) [![Forks](https://img.shields.io/github/forks/freema/drobek?style=flat-square&color=blue)](https://github.com/freema/drobek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted vibe coding hosting platform: an alternative to Lovable, Bolt.new and v0 that works with your own AI agent (Claude Code, Cursor, Codex) over MCP. Builds, previews and publishes web apps. AGPL-3.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ freema/drobek：freema/drobek may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

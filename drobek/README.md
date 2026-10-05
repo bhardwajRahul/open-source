@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [freema/drobek](./freema-drobek.md) | ⭐ 2 | TypeScript | 66/100 |
+| 1 | [freema/drobek](./freema-drobek.md) | ⭐ 2 | TypeScript | 63/100 |
 
 ---
 

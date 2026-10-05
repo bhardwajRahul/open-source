@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [csr1010/wappy-kit](./csr1010-wappy-kit.md) | ⭐ 2 | TypeScript | 71/100 |
+| 1 | [csr1010/wappy-kit](./csr1010-wappy-kit.md) | ⭐ 2 | TypeScript | 68/100 |
 | 2 | [roydonsequeira/CORTEX-Private-Intelligence-Framework](./roydonsequeira-cortex-private-intelligence-framework.md) | ⭐ 4 | Python | 66/100 |
 | 3 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 64/100 |
 | 4 | [akyourowngames/A.N.K.I.T.A](./akyourowngames-a.n.k.i.t.a.md) | ⭐ 3 | JavaScript | 62/100 |

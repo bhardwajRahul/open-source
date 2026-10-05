@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/paper-margins](./arthur031221-paper-margins.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [Arthur031221/paper-margins](./arthur031221-paper-margins.md) | ⭐ — | JavaScript | 40/100 |
 
 ---
 

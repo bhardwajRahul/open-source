@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tk1981215/StudyBuddy-AI](./tk1981215-studybuddy-ai.md) | ⭐ — | JavaScript | 46/100 |
+| 1 | [tk1981215/StudyBuddy-AI](./tk1981215-studybuddy-ai.md) | ⭐ — | JavaScript | 43/100 |
 | 2 | [Jainil26/hacktoberfest-weekend-2026](./jainil26-hacktoberfest-weekend-2026.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
