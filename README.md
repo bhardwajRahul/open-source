@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38421** |
+| **Projects** | **38431** |
 | **Categories** | **342** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14914 | [Browse →](./misc/) |
+| 📦 **Misc** | 14919 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2701 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2702 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1365 | [Browse →](./automation/) |
@@ -50,13 +50,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 290 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 253 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 196 | [Browse →](./trading/) |
-| ✨ **Design** | 163 | [Browse →](./design/) |
+| ✨ **Design** | 164 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 50 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
-| 🏷️ **Ai-agents** | 13 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 14 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 13 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 12 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 11 | [Browse →](./local-first/) |
@@ -100,6 +100,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Speech-recognition** | 2 | [Browse →](./speech-recognition/) |
+| 🏷️ **Browser** | 2 | [Browse →](./browser/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Obsidian** | 2 | [Browse →](./obsidian/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
@@ -224,7 +226,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
 | 🏷️ **Kotlin** | 1 | [Browse →](./kotlin/) |
-| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Medication-adherence** | 1 | [Browse →](./medication-adherence/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
@@ -269,7 +270,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hermes** | 1 | [Browse →](./hermes/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Claude** | 1 | [Browse →](./claude/) |
-| 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Search** | 1 | [Browse →](./search/) |
 | 🏷️ **Concurrency** | 1 | [Browse →](./concurrency/) |
 | 🏷️ **Image-editing** | 1 | [Browse →](./image-editing/) |
