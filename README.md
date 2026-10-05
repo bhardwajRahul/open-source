@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38416** |
+| **Projects** | **38420** |
 | **Categories** | **342** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14912 | [Browse →](./misc/) |
+| 📦 **Misc** | 14913 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2701 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 504 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 490 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 440 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 435 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 436 | [Browse →](./video-editing/) |
 | 🔐 **Security** | 405 | [Browse →](./security/) |
 | 🏷️ **Communication** | 401 | [Browse →](./communication/) |
 | 📊 **Data** | 330 | [Browse →](./data/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 163 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 136 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 94 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 49 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 50 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 29 | [Browse →](./education/) |
 | 🏷️ **Ai-agents** | 13 | [Browse →](./ai-agents/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
+| 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
 | 🏷️ **Angular** | 3 | [Browse →](./angular/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
@@ -124,7 +125,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-security** | 2 | [Browse →](./ai-security/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
-| 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Raspberrypi** | 2 | [Browse →](./raspberrypi/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Local-tts** | 2 | [Browse →](./local-tts/) |

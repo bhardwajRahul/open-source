@@ -1,6 +1,6 @@
 # sanity-io/client
 
-[![Stars](https://img.shields.io/github/stars/sanity-io/client?style=flat-square&color=yellow)](https://github.com/sanity-io/client/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/client?style=flat-square&color=blue)](https://github.com/sanity-io/client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanity-io/client?style=flat-square&color=yellow)](https://github.com/sanity-io/client/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/client?style=flat-square&color=blue)](https://github.com/sanity-io/client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript client for retrieving, creating and patching data from Sanity.io
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ sanity-io/client：sanity-io/client may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 42/100 |
 | categoryMatchCount | 600/100 |
 | stars | 44/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

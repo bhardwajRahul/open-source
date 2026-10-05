@@ -2,7 +2,7 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | 1 | [TanayK07/pr-proof](./tanayk07-pr-proof.md) | ⭐ 1 | Python | 52/100 |
 | 2 | [withmartian/code-review-benchmark](./withmartian-code-review-benchmark.md) | ⭐ 282 | Python | 48/100 |
+| 3 | [orbi-build/orbi-bench](./orbi-build-orbi-bench.md) | ⭐ — | Shell | 39/100 |
 
 ---
 

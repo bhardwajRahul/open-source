@@ -1,6 +1,6 @@
 # hawksxo/git-to-feed
 
-[![Stars](https://img.shields.io/github/stars/hawksxo/git-to-feed?style=flat-square&color=yellow)](https://github.com/hawksxo/git-to-feed/stargazers) [![Forks](https://img.shields.io/github/forks/hawksxo/git-to-feed?style=flat-square&color=blue)](https://github.com/hawksxo/git-to-feed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hawksxo/git-to-feed?style=flat-square&color=yellow)](https://github.com/hawksxo/git-to-feed/stargazers) [![Forks](https://img.shields.io/github/forks/hawksxo/git-to-feed?style=flat-square&color=blue)](https://github.com/hawksxo/git-to-feed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An event-driven Go microservice built with Clean Architecture that automates professional LinkedIn posts from GitHub releases using AI pipelines and Human-in-the-Loop approval.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ hawksxo/git-to-feed：hawksxo/git-to-feed may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
