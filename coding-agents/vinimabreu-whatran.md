@@ -1,6 +1,6 @@
 # vinimabreu/whatran
 
-[![Stars](https://img.shields.io/github/stars/vinimabreu/whatran?style=flat-square&color=yellow)](https://github.com/vinimabreu/whatran/stargazers) [![Forks](https://img.shields.io/github/forks/vinimabreu/whatran?style=flat-square&color=blue)](https://github.com/vinimabreu/whatran/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinimabreu/whatran?style=flat-square&color=yellow)](https://github.com/vinimabreu/whatran/stargazers) [![Forks](https://img.shields.io/github/forks/vinimabreu/whatran?style=flat-square&color=blue)](https://github.com/vinimabreu/whatran/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > What your coding agents ran in your terminal today: atuin and Claude Code history, flagged by fixed rules, explained by Gemma 4 on your own machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ vinimabreu/whatran：vinimabreu/whatran may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
