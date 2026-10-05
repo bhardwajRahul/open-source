@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dimonb19a/trend-switcher](./dimonb19a-trend-switcher.md) | ⭐ — | JavaScript | 47/100 |
+| 1 | [dimonb19a/trend-switcher](./dimonb19a-trend-switcher.md) | ⭐ — | JavaScript | 44/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # git/git
 
-[![Stars](https://img.shields.io/github/stars/git/git?style=flat-square&color=yellow)](https://github.com/git/git/stargazers) [![Forks](https://img.shields.io/github/forks/git/git?style=flat-square&color=blue)](https://github.com/git/git/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git/git?style=flat-square&color=yellow)](https://github.com/git/git/stargazers) [![Forks](https://img.shields.io/github/forks/git/git?style=flat-square&color=blue)](https://github.com/git/git/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63.5k |
 | 🍴 **Forks** | 28.5k |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ git/git：git/git may be useful when its README and activity match a concrete wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 100/100 |
 | categoryMatchCount | 700/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
