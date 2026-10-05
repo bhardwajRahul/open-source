@@ -2,7 +2,7 @@
 
 > 
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -46,15 +46,16 @@
 | 36 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
 | 37 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
 | 38 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 39 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 40 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 41 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 42 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 43 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 44 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 45 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 46 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 47 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 39 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 40 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 41 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 42 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 43 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 44 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 45 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 46 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 47 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 48 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

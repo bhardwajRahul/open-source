@@ -2,7 +2,7 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | 1 | [glatinone/agent-memory-protocol](./glatinone-agent-memory-protocol.md) | ⭐ — | Python | 74/100 |
 | 2 | [hahahahahahahahah6/memgovern](./hahahahahahahahah6-memgovern.md) | ⭐ — | Python | 50/100 |
+| 3 | [esbuild-kit/tsx](./esbuild-kit-tsx.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [droidrun/mobile-harness](./droidrun-mobile-harness.md) | ⭐ 386 | — | 53/100 |
+| 1 | [droidrun/mobile-harness](./droidrun-mobile-harness.md) | ⭐ 386 | — | 50/100 |
 
 ---
 
