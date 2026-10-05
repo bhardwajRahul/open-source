@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38375** |
-| **Categories** | **336** |
+| **Projects** | **38386** |
+| **Categories** | **338** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14893 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4247 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2700 | [Browse →](./mcp/) |
+| 📦 **Misc** | 14898 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2701 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1558 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1363 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1364 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 868 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 775 | [Browse →](./crypto/) |
@@ -98,6 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
 | 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
@@ -146,6 +147,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Quantum** | 1 | [Browse →](./quantum/) |
+| 🏷️ **Expo** | 1 | [Browse →](./expo/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
 | 🏷️ **Meta-ads** | 1 | [Browse →](./meta-ads/) |
 | 🏷️ **Personalization** | 1 | [Browse →](./personalization/) |
@@ -304,7 +307,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
-| 🏷️ **Linux** | 1 | [Browse →](./linux/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |

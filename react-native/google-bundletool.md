@@ -1,6 +1,6 @@
 # google/bundletool
 
-[![Stars](https://img.shields.io/github/stars/google/bundletool?style=flat-square&color=yellow)](https://github.com/google/bundletool/stargazers) [![Forks](https://img.shields.io/github/forks/google/bundletool?style=flat-square&color=blue)](https://github.com/google/bundletool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/bundletool?style=flat-square&color=yellow)](https://github.com/google/bundletool/stargazers) [![Forks](https://img.shields.io/github/forks/google/bundletool?style=flat-square&color=blue)](https://github.com/google/bundletool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Bundletool is a command-line tool to manipulate Android App Bundles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ google/bundletool：google/bundletool may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 600/100 |
 | stars | 77/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
