@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eternity4719/HowToLiveBetter](./eternity4719-howtolivebetter.md) | ⭐ 34.2k | HTML | 60/100 |
+| 1 | [eternity4719/HowToLiveBetter](./eternity4719-howtolivebetter.md) | ⭐ 34.2k | HTML | 57/100 |
 | 2 | [Ankith-m1006/unclaimed](./ankith-m1006-unclaimed.md) | ⭐ — | HTML | 45/100 |
 | 3 | [Kshitij-ambuskar/Algo_Whisperer](./kshitij-ambuskar-algo-whisperer.md) | ⭐ — | JavaScript | 42/100 |
 | 4 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |

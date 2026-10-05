@@ -1,6 +1,6 @@
 # Blaizzy/mlx-audio
 
-[![Stars](https://img.shields.io/github/stars/Blaizzy/mlx-audio?style=flat-square&color=yellow)](https://github.com/Blaizzy/mlx-audio/stargazers) [![Forks](https://img.shields.io/github/forks/Blaizzy/mlx-audio?style=flat-square&color=blue)](https://github.com/Blaizzy/mlx-audio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blaizzy/mlx-audio?style=flat-square&color=yellow)](https://github.com/Blaizzy/mlx-audio/stargazers) [![Forks](https://img.shields.io/github/forks/Blaizzy/mlx-audio?style=flat-square&color=blue)](https://github.com/Blaizzy/mlx-audio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 736 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ local-tts · apple-silicon · voice-cloning · dyslexia · word-highlighting · 
 
 ### English
 
-Blaizzy/mlx-audio: Blaizzy/mlx-audio may be useful when its README and activity match a concrete workflow.. Use it for local-tts, apple-silicon, voice-cloning, dyslexia, word-highlighting, mlx, qwen3-tts, whisper.cpp. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Blaizzy/mlx-audio: Blaizzy/mlx-audio may be useful when its README and activity match a concrete workflow.. Use it for local-tts, apple-silicon, voice-cloning, dyslexia, word-highlighting, mlx, qwen3-tts, whisper.cpp. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Blaizzy/mlx-audio: open-source проект в категориях local-tts, apple-silicon, voice-cloning, dyslexia, word-highlighting, mlx, qwen3-tts, whisper.cpp. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Blaizzy/mlx-audio: open-source проект в категориях local-tts, apple-silicon, voice-cloning, dyslexia, word-highlighting, mlx, qwen3-tts, whisper.cpp. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Blaizzy/mlx-audio：Blaizzy/mlx-audio may be useful when its README and activity match a concrete workflow.。适合用于local-tts、apple-silicon、voice-cloning、dyslexia、word-highlighting、mlx、qwen3-tts、whisper.cpp。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Blaizzy/mlx-audio：Blaizzy/mlx-audio may be useful when its README and activity match a concrete workflow.。适合用于local-tts、apple-silicon、voice-cloning、dyslexia、word-highlighting、mlx、qwen3-tts、whisper.cpp。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Blaizzy/mlx-audio：Blaizzy/mlx-audio may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ Blaizzy/mlx-audio：Blaizzy/mlx-audio may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 84/100 |
+| production | 69/100 |
+| outlook | 77/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 800/100 |
 | stars | 83/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

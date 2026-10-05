@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sandeepwastaken/overscope](./sandeepwastaken-overscope.md) | ⭐ 1 | Python | 67/100 |
+| 1 | [osmanahmadxai/agent-derby](./osmanahmadxai-agent-derby.md) | ⭐ — | TypeScript | 63/100 |
 
 ---
 
