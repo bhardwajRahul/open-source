@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **38391** |
-| **Categories** | **338** |
+| **Projects** | **38401** |
+| **Categories** | **340** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14902 | [Browse →](./misc/) |
+| 📦 **Misc** | 14906 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2701 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2285 | [Browse →](./orchestration/) |
@@ -70,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanity** | 7 | [Browse →](./sanity/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
+| 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 4 | [Browse →](./n8n/) |
@@ -79,7 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Webgpu** | 4 | [Browse →](./webgpu/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
-| 🏷️ **Docker** | 4 | [Browse →](./docker/) |
+| 🏷️ **Angular** | 3 | [Browse →](./angular/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
@@ -98,6 +99,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
+| 🏷️ **Obsidian** | 2 | [Browse →](./obsidian/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Gdpr** | 2 | [Browse →](./gdpr/) |
 | 🏷️ **X402** | 2 | [Browse →](./x402/) |
@@ -133,7 +136,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Decision-models** | 2 | [Browse →](./decision-models/) |
 | 🏷️ **Flashcards** | 2 | [Browse →](./flashcards/) |
 | 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
-| 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
@@ -147,6 +149,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
+| 🏷️ **Crosscompilation** | 1 | [Browse →](./crosscompilation/) |
 | 🏷️ **Quantum** | 1 | [Browse →](./quantum/) |
 | 🏷️ **Expo** | 1 | [Browse →](./expo/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
@@ -173,8 +177,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Stock-management** | 1 | [Browse →](./stock-management/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
 | 🏷️ **Prompt-management** | 1 | [Browse →](./prompt-management/) |
-| 🏷️ **Rag** | 1 | [Browse →](./rag/) |
-| 🏷️ **Obsidian** | 1 | [Browse →](./obsidian/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
 | 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
